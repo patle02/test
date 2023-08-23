@@ -1,0 +1,5 @@
+{{#patle02}}
+Name: Prajeta
+Skills: Java, HTML, CSS, JS, Bootstrap, Angular, MySQL
+Email: nainapatle09@gmail.com
+{{/patle02}}
